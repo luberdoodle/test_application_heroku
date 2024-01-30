@@ -1,0 +1,6 @@
+com/example/demo/repositories/MampEntityRepository.class
+com/example/demo/controllers/HomeController.class
+com/example/demo/controllers/CreateController.class
+com/example/demo/DemoApplication.class
+com/example/demo/models/Song.class
+com/example/demo/service/MampService.class
